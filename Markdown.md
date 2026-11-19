@@ -18,7 +18,7 @@ My favorite tools are:
 
 You can check my work here:
 
-- [My Live Personal Site](https://tochomot385-hash.github.io/)
+- [My Live Personal Site](https://tochomot385-hash.github.io/iyf-s12-week-00-tochomot385-hash/)
 - [My Profile](https://github.com/tochomot385-hash)
 
 > Stay curious, keep coding!
